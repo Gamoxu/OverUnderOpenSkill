@@ -1,0 +1,833 @@
+{
+  "meta": {
+    "current_page": 1,
+    "first_page_url": "https://www.robotevents.com/api/v2/teams/113050/matches?page=1",
+    "from": 1,
+    "last_page": 1,
+    "last_page_url": "https://www.robotevents.com/api/v2/teams/113050/matches?page=1",
+    "next_page_url": null,
+    "path": "https://www.robotevents.com/api/v2/teams/113050/matches",
+    "per_page": 50,
+    "prev_page_url": null,
+    "to": 12,
+    "total": 12
+  },
+  "data": [
+    {
+      "id": 60922258,
+      "event": {
+        "id": 51484,
+        "name": "WAVE at WPI VRC Signature Event (HS Only)",
+        "code": "RE-VRC-23-1484"
+      },
+      "division": {
+        "id": 1,
+        "name": "WAVE at WPI",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 18,
+      "scheduled": "2023-12-01T10:59:30-05:00",
+      "started": "2023-12-01T11:01:12-05:00",
+      "field": "Field 3",
+      "session": 1,
+      "scored": false,
+      "name": "Qualifier #18",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 147,
+          "teams": [
+            {
+              "team": {
+                "id": 23035,
+                "name": "8000C",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 113050,
+                "name": "4610H",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 135,
+          "teams": [
+            {
+              "team": {
+                "id": 120790,
+                "name": "20203Z",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 85980,
+                "name": "16099A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 60922273,
+      "event": {
+        "id": 51484,
+        "name": "WAVE at WPI VRC Signature Event (HS Only)",
+        "code": "RE-VRC-23-1484"
+      },
+      "division": {
+        "id": 1,
+        "name": "WAVE at WPI",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 33,
+      "scheduled": "2023-12-01T11:52:00-05:00",
+      "started": "2023-12-01T11:52:45-05:00",
+      "field": "Field 3",
+      "session": 1,
+      "scored": false,
+      "name": "Qualifier #33",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 125,
+          "teams": [
+            {
+              "team": {
+                "id": 138955,
+                "name": "2142Z",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 4101,
+                "name": "12D",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 160,
+          "teams": [
+            {
+              "team": {
+                "id": 113050,
+                "name": "4610H",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 94779,
+                "name": "97140B",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 60922293,
+      "event": {
+        "id": 51484,
+        "name": "WAVE at WPI VRC Signature Event (HS Only)",
+        "code": "RE-VRC-23-1484"
+      },
+      "division": {
+        "id": 1,
+        "name": "WAVE at WPI",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 53,
+      "scheduled": "2023-12-01T14:29:30-05:00",
+      "started": "2023-12-01T14:33:45-05:00",
+      "field": "Field 2",
+      "session": 1,
+      "scored": false,
+      "name": "Qualifier #53",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 175,
+          "teams": [
+            {
+              "team": {
+                "id": 37729,
+                "name": "2442A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 113050,
+                "name": "4610H",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 20,
+          "teams": [
+            {
+              "team": {
+                "id": 133677,
+                "name": "43440Y",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 151723,
+                "name": "2616X",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 60922314,
+      "event": {
+        "id": 51484,
+        "name": "WAVE at WPI VRC Signature Event (HS Only)",
+        "code": "RE-VRC-23-1484"
+      },
+      "division": {
+        "id": 1,
+        "name": "WAVE at WPI",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 74,
+      "scheduled": "2023-12-01T15:43:00-05:00",
+      "started": "2023-12-01T15:46:33-05:00",
+      "field": "Field 2",
+      "session": 1,
+      "scored": false,
+      "name": "Qualifier #74",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 165,
+          "teams": [
+            {
+              "team": {
+                "id": 87708,
+                "name": "1898A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 113050,
+                "name": "4610H",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 63,
+          "teams": [
+            {
+              "team": {
+                "id": 143228,
+                "name": "119B",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 54474,
+                "name": "9909A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 60922331,
+      "event": {
+        "id": 51484,
+        "name": "WAVE at WPI VRC Signature Event (HS Only)",
+        "code": "RE-VRC-23-1484"
+      },
+      "division": {
+        "id": 1,
+        "name": "WAVE at WPI",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 91,
+      "scheduled": "2023-12-01T16:42:30-05:00",
+      "started": "2023-12-01T16:44:39-05:00",
+      "field": "Field 1",
+      "session": 1,
+      "scored": false,
+      "name": "Qualifier #91",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 91,
+          "teams": [
+            {
+              "team": {
+                "id": 26683,
+                "name": "12X",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 130739,
+                "name": "955R",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 59,
+          "teams": [
+            {
+              "team": {
+                "id": 113050,
+                "name": "4610H",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 127298,
+                "name": "77275B",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 60922347,
+      "event": {
+        "id": 51484,
+        "name": "WAVE at WPI VRC Signature Event (HS Only)",
+        "code": "RE-VRC-23-1484"
+      },
+      "division": {
+        "id": 1,
+        "name": "WAVE at WPI",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 107,
+      "scheduled": "2023-12-01T17:38:30-05:00",
+      "started": "2023-12-01T17:43:48-05:00",
+      "field": "Field 2",
+      "session": 1,
+      "scored": false,
+      "name": "Qualifier #107",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 126,
+          "teams": [
+            {
+              "team": {
+                "id": 64680,
+                "name": "8000E",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 86031,
+                "name": "2602H",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 128,
+          "teams": [
+            {
+              "team": {
+                "id": 113050,
+                "name": "4610H",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 134643,
+                "name": "10190S",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 60922362,
+      "event": {
+        "id": 51484,
+        "name": "WAVE at WPI VRC Signature Event (HS Only)",
+        "code": "RE-VRC-23-1484"
+      },
+      "division": {
+        "id": 1,
+        "name": "WAVE at WPI",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 122,
+      "scheduled": "2023-12-02T08:28:00-05:00",
+      "started": "2023-12-02T08:34:54-05:00",
+      "field": "Field 2",
+      "session": 1,
+      "scored": false,
+      "name": "Qualifier #122",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 120,
+          "teams": [
+            {
+              "team": {
+                "id": 70524,
+                "name": "97140A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 153617,
+                "name": "2707X",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 137,
+          "teams": [
+            {
+              "team": {
+                "id": 87709,
+                "name": "1898R",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 113050,
+                "name": "4610H",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 60922387,
+      "event": {
+        "id": 51484,
+        "name": "WAVE at WPI VRC Signature Event (HS Only)",
+        "code": "RE-VRC-23-1484"
+      },
+      "division": {
+        "id": 1,
+        "name": "WAVE at WPI",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 147,
+      "scheduled": "2023-12-02T09:55:30-05:00",
+      "started": "2023-12-02T09:57:07-05:00",
+      "field": "Field 3",
+      "session": 1,
+      "scored": false,
+      "name": "Qualifier #147",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 86,
+          "teams": [
+            {
+              "team": {
+                "id": 139517,
+                "name": "4478U",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 9232,
+                "name": "169E",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 84,
+          "teams": [
+            {
+              "team": {
+                "id": 113050,
+                "name": "4610H",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 87630,
+                "name": "16099B",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 60922398,
+      "event": {
+        "id": 51484,
+        "name": "WAVE at WPI VRC Signature Event (HS Only)",
+        "code": "RE-VRC-23-1484"
+      },
+      "division": {
+        "id": 1,
+        "name": "WAVE at WPI",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 158,
+      "scheduled": "2023-12-02T10:34:00-05:00",
+      "started": "2023-12-02T10:36:09-05:00",
+      "field": "Field 2",
+      "session": 1,
+      "scored": false,
+      "name": "Qualifier #158",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 95,
+          "teams": [
+            {
+              "team": {
+                "id": 113050,
+                "name": "4610H",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 54475,
+                "name": "9909B",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 129,
+          "teams": [
+            {
+              "team": {
+                "id": 141354,
+                "name": "119A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 56849,
+                "name": "9364E",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 60922412,
+      "event": {
+        "id": 51484,
+        "name": "WAVE at WPI VRC Signature Event (HS Only)",
+        "code": "RE-VRC-23-1484"
+      },
+      "division": {
+        "id": 1,
+        "name": "WAVE at WPI",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 172,
+      "scheduled": "2023-12-02T13:21:00-05:00",
+      "started": "2023-12-02T13:18:30-05:00",
+      "field": "Field 1",
+      "session": 1,
+      "scored": false,
+      "name": "Qualifier #172",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 77,
+          "teams": [
+            {
+              "team": {
+                "id": 50276,
+                "name": "2442C",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 113050,
+                "name": "4610H",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 123,
+          "teams": [
+            {
+              "team": {
+                "id": 4096,
+                "name": "12C",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 73754,
+                "name": "2602E",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 60922439,
+      "event": {
+        "id": 51484,
+        "name": "WAVE at WPI VRC Signature Event (HS Only)",
+        "code": "RE-VRC-23-1484"
+      },
+      "division": {
+        "id": 1,
+        "name": "WAVE at WPI",
+        "code": null
+      },
+      "round": 3,
+      "instance": 3,
+      "matchnum": 1,
+      "scheduled": null,
+      "started": "2023-12-02T16:01:53-05:00",
+      "field": "Field 2",
+      "session": 1,
+      "scored": false,
+      "name": "QF #3-1",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 114,
+          "teams": [
+            {
+              "team": {
+                "id": 113050,
+                "name": "4610H",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 64680,
+                "name": "8000E",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 140,
+          "teams": [
+            {
+              "team": {
+                "id": 153508,
+                "name": "8829C",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 52977,
+                "name": "9364A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 60922434,
+      "event": {
+        "id": 51484,
+        "name": "WAVE at WPI VRC Signature Event (HS Only)",
+        "code": "RE-VRC-23-1484"
+      },
+      "division": {
+        "id": 1,
+        "name": "WAVE at WPI",
+        "code": null
+      },
+      "round": 6,
+      "instance": 6,
+      "matchnum": 1,
+      "scheduled": null,
+      "started": "2023-12-02T15:40:47-05:00",
+      "field": "Field 3",
+      "session": 1,
+      "scored": false,
+      "name": "R16 #6-1",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 151,
+          "teams": [
+            {
+              "team": {
+                "id": 113050,
+                "name": "4610H",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 64680,
+                "name": "8000E",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 126,
+          "teams": [
+            {
+              "team": {
+                "id": 61764,
+                "name": "6277C",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 139517,
+                "name": "4478U",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
