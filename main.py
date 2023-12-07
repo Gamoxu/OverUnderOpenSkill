@@ -4,14 +4,10 @@ import json
 model = PlackettLuce()
 
 # Opening JSON file
-f = open('balls.json')
+f = open('testing_match_list.json')
 
-# returns JSON object as
-# a dictionary
 data = json.load(f)
 
-# Iterating through the json
-# list
 for i in data['data']:
     print(i['alliances'][0]['score'])
     print(i['alliances'][1]['score'])
@@ -33,11 +29,3 @@ for i in data['data']:
 
 # Closing file
 f.close()
-
-
-#balls.json
-
-#match = [team1, team2]
-#[team1, team2] = model.rate(match)
-#[p1, p2] = team1
-#[p3, p4] = team2
